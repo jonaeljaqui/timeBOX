@@ -5,7 +5,6 @@ import {
   deleteTimebox,
   getOrCreateDailyPlan,
   getStreak,
-  getTodayMIT,
   listCategories,
   listTimeboxes,
   markTimeboxActive,
